@@ -1,0 +1,6 @@
+.navi_button{
+    display: flex;
+    justify-content: left;
+    gap: 10px; 
+    background-color: aliceblue;
+}
